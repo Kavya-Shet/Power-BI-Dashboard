@@ -1,2 +1,1 @@
-Dashboard
-This is a Power BI Project
+This repository contains all Power BI dashboards. 
