@@ -1,1 +1,1 @@
-This repository contailns all Power BI Projects
+This repository contains all Power BI Projects
